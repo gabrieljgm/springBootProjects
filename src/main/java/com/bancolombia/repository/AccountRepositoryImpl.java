@@ -20,9 +20,9 @@ public class AccountRepositoryImpl implements AccountRepository {
 	private static Database db = null; 
 	
 	
-	String account="51ce97bc-e3e2-44a1-b6f7-cfddf21a7c05-bluemix.cloudant.com";
-	String username = "51ce97bc-e3e2-44a1-b6f7-cfddf21a7c05-bluemix";
-	String password = "e0fdca5de85b1384915ef6ddc029b4837fff9d09023185a7d8b31ea88888faee";
+	String account="replace your cloudant account";
+	String username = "replace your cloudant user ";
+	String password = "replica your password user";
 	
 	
 	public AccountRepositoryImpl() {
